@@ -1,7 +1,7 @@
 # Hey, I'm Neha!
 
 <p align="center">
-    <img src="docs/images/profile.png" class="circular">
+  <img src="../images/profile.png" class="circular" width="250">
 </p>
 
 I'm a Statistics major at Texas A&M University with a minor in Computer Science. I’m passionate about using data to drive strategy, uncover insights, and create scalable solutions. My background includes applied machine learning, statistical analysis, and data visualization across a range of industries.
