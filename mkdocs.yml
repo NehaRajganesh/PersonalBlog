@@ -2,8 +2,7 @@ site_name: Neha Rajganesh
 site_url: https://neharajganesh.github.io/PersonalBlog/
 
 theme:
-  name: material
-  logo: null
+  name: material/chart-line
   features:
     - navigation.instant
     - navigation.instant.progress
