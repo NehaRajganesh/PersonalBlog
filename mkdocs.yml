@@ -3,6 +3,7 @@ site_url: https://neharajganesh.github.io/PersonalBlog/
 
 theme:
   name: material
+  logo: null
   features:
     - navigation.instant
     - navigation.instant.progress
