@@ -57,4 +57,4 @@ Agentic AI offers a glimpse into the future of **personal and business productiv
 
 ---
 
-If you’d like to connect or share how you’re exploring Agentic AI, you can reach me on [LinkedIn](https://www.linkedin.com/in/neharajganesh).
+If you’d like to connect or share how you’re exploring Agentic AI, you can reach me on [LinkedIn](https://www.linkedin.com/in/neha-rajganesh/).

@@ -52,4 +52,4 @@ Vector databases unlock a new layer of capability for AI systems, enabling them 
 
 ---
 
-If you're exploring building your own AI assistants or data products with LLMs, diving into vector databases is a must. Let’s connect and learn together on [LinkedIn](https://www.linkedin.com/in/neharajganesh)!
+If you're exploring building your own AI assistants or data products with LLMs, diving into vector databases is a must. Let’s connect and learn together on [LinkedIn](https://www.linkedin.com/in/neha-rajganesh/)!
